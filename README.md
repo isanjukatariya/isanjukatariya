@@ -1,12 +1,8 @@
-hey, i'm Sanju 
+<img src="banner.png" width="100%" alt="banner">
 
-i make things on screens and occasionally make them work too.
+`<3`
 
-product design, frontend experiments & ideas that refuse to stay in my head.
+`design // development`
 
-currently learning, building, and figuring things out as i go.
-
-**design first. code next. ship eventually.**
-
-[portfolio](https://www.isanjukatariya.me/) · [behance](https://behance.net/sanjukatariya) · [linkedin](https://www.linkedin.com/in/isanjukatariya/)
+[**website**](https://www.isanjukatariya.me) | [**behance**](https://behance.net/sanjukatariya) | [**x (linkedin)**](https://www.linkedin.com/in/isanjukatariya/) | [**email**](mailto:isanjukatariya@gmail.com)
 
