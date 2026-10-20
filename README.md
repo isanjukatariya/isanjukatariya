@@ -1,4 +1,4 @@
-# hey, i'm Sanju ✳
+hey, i'm Sanju 
 
 i make things on screens and occasionally make them work too.
 
