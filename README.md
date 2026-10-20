@@ -2,7 +2,7 @@
 
 <3
 
-design // development 
+```design // development```
 
-[**website**](https://www.isanjukatariya.me) | [**behance**](https://behance.net/sanjukatariya) | [**x (linkedin)**](https://www.linkedin.com/in/isanjukatariya/) | [**email**](mailto:isanjukatariya@gmail.com)
+[**website**](https://www.isanjukatariya.me) | [**behance**](https://behance.net/sanjukatariya) | [**linkedin**](https://www.linkedin.com/in/isanjukatariya/) | [**email**](mailto:isanjukatariya@gmail.com)
 
