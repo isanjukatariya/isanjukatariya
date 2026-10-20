@@ -1,4 +1,4 @@
-<img src="yuta.png" width="100%" alt="banner">
+<img src="yuta.jpg" width="100%" alt="banner">
 
 `<3`
 
